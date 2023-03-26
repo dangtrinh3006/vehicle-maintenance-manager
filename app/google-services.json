@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1098081011754",
+    "firebase_url": "https://xe-toi-app-default-rtdb.firebaseio.com",
+    "project_id": "xe-toi-app",
+    "storage_bucket": "xe-toi-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098081011754:android:464189f203fa7cadbb1b53",
+        "android_client_info": {
+          "package_name": "tada.app.xetoi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098081011754-1jd5fvm3qafvegt6vq6f9jl1srp96ecm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tada.app.xetoi",
+            "certificate_hash": "503358d8921635eef6fc0a0098884e4cce019491"
+          }
+        },
+        {
+          "client_id": "1098081011754-kngafuapnqr0jiq4oekhqk3kcib4i3u5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tada.app.xetoi",
+            "certificate_hash": "273789b6b9436ab506e097de6fa0dc1b8802dcd7"
+          }
+        },
+        {
+          "client_id": "1098081011754-87afrbfofdi2383ctp200bu4tdse4iml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCPmJ8eakgcZIP-VHgaJphdwV_G0R5e5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098081011754-87afrbfofdi2383ctp200bu4tdse4iml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

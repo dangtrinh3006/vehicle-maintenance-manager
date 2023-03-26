@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Xe Toi</string>
+    <string name="title_home">Trang chủ</string>
+    <string name="title_history">Lịch sử</string>
+    <string name="title_personal">Cá nhân</string>
+    <string name="sign_in">Đăng nhập</string>
+    <string name="google_sign_in_button">Đăng nhập với Google</string>
+    <string name="facebook_sign_in_button">Đăng nhập với Facebook</string>
+    <string name="term_of_service_and_policy"><b><u>Điều khoản dịch vụ</u></b> và <b><u>Chính sách bảo mật</u></b></string>
+    <string name="facebook_app_id">614875616489055</string>
+    <string name="fb_login_protocol_scheme">fb614875616489055</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="channel_1_name">NotifyUpgrade</string>
+    <string name="channel_1_description">Remind user to upgrade vehicles</string>
+    <string name="channel_2_name">Dang kiem</string>
+    <string name="channel_2_description">Channel dang kiem</string>
+    <string name="channel_3_name">Channel 3</string>
+    <string name="channel_3_description">channel 3</string>
+
+</resources>
